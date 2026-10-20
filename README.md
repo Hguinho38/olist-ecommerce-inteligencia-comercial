@@ -53,3 +53,9 @@ Dataset público de e-commerce brasileiro disponibilizado pela Olist.
 Status do projeto
 
 Projeto em desenvolvimento. Os dashboards das áreas executiva, produtos e clientes foram construídos no Power BI.
+## Dashboard Power BI
+
+![Visão executiva do dashboard Olist](Screenshot_1.png)
+![Visão dos produtos do dashboard Olist](Screenshot_2.png)
+![Visão dos clientes do dashboard Olist](Screenshot_3.png)
+
