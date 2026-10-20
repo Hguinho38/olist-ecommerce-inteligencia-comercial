@@ -58,4 +58,3 @@ Projeto em desenvolvimento. Os dashboards das áreas executiva, produtos e clien
 ![Visão executiva do dashboard Olist](Screenshot_1.png)
 ![Visão dos produtos do dashboard Olist](Screenshot_2.png)
 ![Visão dos clientes do dashboard Olist](Screenshot_3.png)
-
